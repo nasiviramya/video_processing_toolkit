@@ -1,9 +1,10 @@
-#🎥 Video Processing Toolkit
+🎥 Video Processing Toolkit
+
 
 A lightweight Python toolkit for basic video processing tasks using OpenCV and NumPy.
-It provides two main features: converting videos to grayscale and combining videos side-by-side.
+It provides two main features: grayscale conversion and side-by-side video combining.
 
-#🧩 Features
+🧩 Features
 1️⃣ Grayscale Conversion (bw_to_color)
 
 Working: Converts any color video into black-and-white (grayscale).
